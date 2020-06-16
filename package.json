@@ -1,0 +1,20 @@
+{
+  "name": "asdai-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://AsdAi@dev.azure.com/AsdAi/Doctor%20J/_git/Doctor%20J",
+  "author": "Phil Scott <phil@asd.ai>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@tailwindcss/ui": "^0.3.0",
+    "autoprefixer": "^9.8.0",
+    "tailwindcss": "^1.4.6"
+  }
+}
