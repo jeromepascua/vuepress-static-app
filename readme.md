@@ -1,6 +1,6 @@
-# AsdAi Web
+# Dr. J Web
 
-[VuePress](https://vuepress.vuejs.org/) Site for Static Public Asd.AI Web
+[VuePress](https://vuepress.vuejs.org/) Site for Static Public Dr. J Web
 
 ## Running Locally
 
