@@ -10,7 +10,8 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "@tailwindcss/ui": "^0.3.0",
